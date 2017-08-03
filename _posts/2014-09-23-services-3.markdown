@@ -6,9 +6,5 @@ title: Tela de Mapa
 description: |
 ---
 Existe a possibilidade de se seguir at&eacute; a indica&ccedil;&atilde;o da empresa no mapa - onde o pin est&aacute; localizado - e l&aacute; chegando, poder&aacute; 
-<<<<<<< HEAD
 contribuir confirmando a exist&ecirc;ncia ou n&atilde;o. Al&eacute;em disso, o usu&aacute;rio tem a possibilidade de visualizar a avali&ccedil;&atilde;o e status geral da empresa
-=======
-contribuir confirmando a exist&ecirc;ncia ou n&atilde;o. O usu&aacute;rio tem a possibilidade de visualizar a avali&ccedil;&atilde;o e status geral da empresa
->>>>>>> f420b7acb47bad057adc8953c158dcb8e661cf2b
 clicando no pin de localiza&ccedil;&atilde;o.
