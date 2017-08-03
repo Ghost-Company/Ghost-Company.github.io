@@ -1,10 +1,10 @@
 ---
 layout: default
-img: dog.png
+img: alert.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Tela de Alerta
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  A partir da notifica&ccedil;&atilde;o em sua tela, o app informa ao usuacute;rio que est&aacute; h&aacute; poucos metros de uma 
+  organiza&ccedil;&atilde;o a qual participa de licita&ccedil;&otilde;es com os org&atilde;os p&uacute;blicos, assim o usu&aacute;rio poder&aacute; confirmar 
+  exist&ecirc;ncia  da empresa no local!

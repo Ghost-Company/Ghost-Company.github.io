@@ -1,8 +1,10 @@
 ---
 layout: default
-img: phones.png
+img: map.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Tela de Mapa
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Existe a possibilidade de se seguir at&eacute; a indica&ccedil;&atilde;o da empresa no mapa - onde o pin est&aacute; localizado - e l&aacute; chegando, poder&aacute; 
+contribuir confirmando a exist&ecirc;ncia ou n&atilde;o. Al&eacute;em disso, o usu&aacute;rio tem a possibilidade de visualizar a avali&ccedil;&atilde;o e status geral da empresa
+clicando no pin de localiza&ccedil;&atilde;o.
