@@ -5,6 +5,12 @@ category: Services
 title: Tela de Alerta
 description: |
 ---
+<<<<<<< HEAD
   A partir da notifica&ccedil;&atilde;o em sua tela, o app informa ao usuacute;rio que est&aacute; h&aacute; poucos metros de uma 
   organiza&ccedil;&atilde;o a qual participa de licita&ccedil;&otilde;es com os org&atilde;os p&uacute;blicos, assim o usu&aacute;rio poder&aacute; confirmar 
   exist&ecirc;ncia  da empresa no local!
+=======
+  A partir da notifica&ccedil;&atilde;o em sua tela, o app informa ao usuario que est&aacute; h&aacute; pouco metros de uma 
+  organiza&ccedil;&atilde;o que possui licita&ccedil;&otilde;es com os org&atilde;os p&uacute;blicos, assim o usu&aacute;rio poder&aacute; confirmar 
+  existecia da empresa no local!
+>>>>>>> f420b7acb47bad057adc8953c158dcb8e661cf2b
