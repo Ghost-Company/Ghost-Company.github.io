@@ -1,0 +1,9 @@
+---
+layout: default
+img: detalhe.png
+category: Services
+title: Tela de Detalhamento
+description: |
+---
+Pode-se analisar detalhes sobre a empresa, ao clicar em um no popup para visualizar a avali&ccedil;&atilde;o do status geral da empresa, logo depois
+clicar no pin de localiza&ccedil;&atilde;o.
